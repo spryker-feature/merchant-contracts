@@ -9,7 +9,8 @@
     "php": ">=7.1",
     "spryker-feature/merchant": "^201903.0",
     "spryker/merchant-relationship": "^1.5.0",
-    "spryker/merchant-relationship-data-import": "^0.1.5"
+    "spryker/merchant-relationship-data-import": "^0.1.5",
+    "spryker/merchant-relationship-gui": "^1.2.0"
   },
   "extra": {
     "branch-alias": {
