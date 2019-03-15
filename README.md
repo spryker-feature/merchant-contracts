@@ -1,6 +1,6 @@
 # Spryker Feature: Merchant B2B Contracts
 
-A contract is setup between Merchant and B2B customer
+A contract is set up between Merchant and B2B customer
 
 ## Installation
 
