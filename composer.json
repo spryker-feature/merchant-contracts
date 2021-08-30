@@ -1,22 +1,22 @@
 {
-  "name": "spryker-feature/merchant-contracts",
-  "description": "Merchant B2B Contracts [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/merchant-relationship": "^1.8.0",
-    "spryker/merchant-relationship-data-import": "^0.2.0",
-    "spryker/merchant-relationship-gui": "^1.6.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/merchant-contracts",
+    "description": "Merchant B2B Contracts [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/merchant-relationship": "^1.8.0",
+        "spryker/merchant-relationship-data-import": "^0.2.0",
+        "spryker/merchant-relationship-gui": "^1.7.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/merchant": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/merchant": "Recommended feature dependency."
-  }
 }
