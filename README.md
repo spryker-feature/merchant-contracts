@@ -14,5 +14,6 @@ composer require spryker-feature/merchant-contracts
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
+- [MerchantRelationshipApi ^0.1.0](https://github.com/spryker/merchant-relationship-api) (Old API)
 - [MerchantRelationshipExtension ^1.1.0](https://github.com/spryker/merchant-relationship-extension) (Extension)
 - [MerchantRelationshipGuiExtension ^1.0.0](https://github.com/spryker/merchant-relationship-gui-extension) (Extension)
