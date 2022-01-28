@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "spryker/merchant-relationship": "^1.8.0",
         "spryker/merchant-relationship-data-import": "^0.2.0",
         "spryker/merchant-relationship-gui": "^1.7.0"
