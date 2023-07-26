@@ -7,13 +7,13 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker/merchant-relationship": "^1.10.0",
+        "spryker/merchant-relationship": "^1.11.0",
         "spryker/merchant-relationship-data-import": "^0.2.0",
         "spryker/merchant-relationship-gui": "^1.9.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202307.x-dev"
         }
     },
     "suggest": {
