@@ -2,6 +2,8 @@
 
 A contract is set up between Merchant and B2B customer
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202307.0/base-shop/merchant-b2b-contracts-feature-overview.html)
+
 ## Installation
 
 ```
