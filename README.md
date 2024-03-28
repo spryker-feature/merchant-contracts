@@ -1,6 +1,6 @@
 # Spryker Feature: Merchant B2B Contracts
 
-A contract is set up between Merchant and B2B customer
+In the B2B partnership, which is usually based on contracts, the selling company is also referred to as a merchant, and the business unit of a buying company often represents the buyer. In the Spryker B2B shop system, the merchant relation entity connects merchants and buyers.
 
 [Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202307.0/base-shop/merchant-b2b-contracts-feature-overview.html)
 
