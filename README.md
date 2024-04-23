@@ -18,5 +18,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 ## Optional modules
 - [CommentMerchantRelationshipConnector ^1.0.0](https://github.com/spryker/comment-merchant-relationship-connector) (Connector)
 - [MerchantRelationshipApi ^0.1.0](https://github.com/spryker/merchant-relationship-api) (Old API)
-- [MerchantRelationshipExtension ^1.2.0](https://github.com/spryker/merchant-relationship-extension) (Extension)
+- [MerchantRelationshipExtension ^1.3.0](https://github.com/spryker/merchant-relationship-extension) (Extension)
 - [MerchantRelationshipGuiExtension ^1.0.0](https://github.com/spryker/merchant-relationship-gui-extension) (Extension)
