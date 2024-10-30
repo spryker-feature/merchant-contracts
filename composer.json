@@ -9,7 +9,7 @@
         "php": ">=8.2",
         "spryker-shop/merchant-relationship-page": "^1.0.0",
         "spryker-shop/merchant-relationship-widget": "^1.0.0",
-        "spryker/merchant-relationship": "^1.12.0",
+        "spryker/merchant-relationship": "^1.13.0",
         "spryker/merchant-relationship-data-import": "^0.2.0",
         "spryker/merchant-relationship-gui": "^1.11.0"
     },
